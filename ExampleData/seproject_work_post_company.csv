@@ -1,0 +1,6 @@
+Work_Post_ID,Company_ID,Type_Work_Number,Name_Work,Detail_Work,Position,Num_Person,Price_Work_Min,Price_Work_Max,Education,Image_Work_Post_Company
+2,4,3,JAVA1,detailwork,Bangkok,2,20000,30000,all,image
+3,4,1,UXUI,detailwork,Bangkok,2,20000,30000,all,image
+4,4,3,JAVA,detailwork,Bangkok,2,20000,30000,all,image
+5,4,3,JAVA,detailwork,Bangkok,2,20000,30000,all,image
+6,4,3,JAVA,detailwork,Bangkok,2,20000,30000,all,image
